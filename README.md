@@ -7,4 +7,4 @@ repertoire.
 Looking into any of my Python Repositories you'll notice I specifically upload Jupyter notebooks. 
 If you want to try any of these codes out, feel free. Another repository I have is dedicated to my machine learning 
 utilizing the python language to set up analysis, and models. Consider this repository my more beginner friendly codes, 
-whilst my AI and ML repository contains more of an intermidiate side. 
+whilst my AI and ML repository contains more of an intermediate side. 
