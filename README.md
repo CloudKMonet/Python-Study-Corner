@@ -14,4 +14,4 @@ Currently Working On (as of week 8/25 through 8/27):
 * Tea Ordering update
 
 Next Project:
-* Calculator app (but the python version of my c#)
+* Calculator app (but the python version of my c#) in progress
