@@ -10,8 +10,8 @@ utilizing the python language to set up analysis, and models. Consider this repo
 whilst my AI and ML repository contains more of an intermediate side. 
 
 Currently Working On (as of week 8/25 through 8/27): 
-* Counting Sheep update
-* Tea Ordering update
+* Counting Sheep update - in progress
+* Tea Ordering update - complete
 
 Next Project:
-* Calculator app (but the python version of my c#) in progress
+* Calculator app (but the python version of my c#) - complete
