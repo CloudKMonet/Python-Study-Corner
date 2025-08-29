@@ -9,9 +9,9 @@ If you want to try any of these codes out, feel free. Another repository I have 
 utilizing the python language to set up analysis, and models. Consider this repository my more beginner friendly codes, 
 whilst my AI and ML repository contains more of an intermediate side. 
 
-Currently Working On (as of week 8/25 through 8/27): 
+Currently Working On: 
 * Counting Sheep update - in progress
-* Tea Ordering update - complete
+* Tea Ordering update - complete 8/28/25
 
 Next Project:
-* Calculator app (but the python version of my c#) - complete
+* Calculator app (but the python version of my c#) - complete 8/28/25
