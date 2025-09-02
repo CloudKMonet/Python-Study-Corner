@@ -11,6 +11,3 @@ whilst my AI and ML repository contains more of an intermediate side.
 
 Currently Working On: 
 * To Be Planned...
-
-Next Project:
-* Counting Sheep update - in progress (8/30 -> 8/31)
